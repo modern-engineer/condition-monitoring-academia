@@ -22,8 +22,8 @@ A modern industrial engineer must **leverage sensor data** and deep-domain exper
 <br></br>
 ## Explore the Repository
 
-- [Papers and Articles](#)
-- [Time-Series Datasets](#)
+- [Papers and Articles](https://github.com/modern-engineer/condition-monitoring-academy/blob/main/papers/readme.md)
+- [Time-Series Datasets](https://github.com/modern-engineer/condition-monitoring-academy/blob/main/datasets/readme.md)
 - [Tutorials and Guides](#)
 
 
