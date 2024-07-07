@@ -4,10 +4,10 @@ A modern industrial engineer must **leverage sensor data** and deep-domain exper
 <br></br>
 ## What You'll Find Here
 
-#### 📚 Curated Collection of Papers and Articles
+#### 📚 Curated Collection of Papers and Articles - [[Go to]](https://github.com/modern-engineer/condition-monitoring-academy/blob/main/papers/readme.md)
 * _Stay up-to-date with the latest strategies for anticipating failures using sensor historical data._
 
-#### 📊 Public Industrial Time-Series Datasets
+#### 📊 Public Industrial Time-Series Datasets - [[Go to]](https://github.com/modern-engineer/condition-monitoring-academy/blob/main/datasets/readme.md)
 * _Access open-source sensors datasets to practice and enhance your automated condition monitoring skills._
 
 <br></br>
