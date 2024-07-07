@@ -28,7 +28,7 @@ A modern industrial engineer must **leverage sensor data** and deep-domain exper
 
 
 <br></br>
-## Get Involved
+## Get Involved:
 
 
 We welcome your contributions! Please feel free to raise issues and propose pull requests.
