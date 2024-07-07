@@ -3,6 +3,7 @@
 A modern industrial engineer must leverage sensor data and deep-domain expertise to anticipate operational failures. This is a challenging task, and many researchers worldwide are dedicated to this field. Use this repository to stay updated with the latest advancements and research on this critical topic.
 
 
+
 ## What You'll Find Here
 
 #### 📚 Curated Collection of Papers and Articles
